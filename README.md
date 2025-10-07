@@ -1,6 +1,7 @@
 # Homework 8 - iOS SwiftUI Navigation App
 
 ## Demo Video
+![Demo Animation](media/demo.gif)
 [View demo video](media/demo.mov)
 
 ## Project Overview
