@@ -1,5 +1,7 @@
 # Homework 8 - iOS SwiftUI Navigation App
 
+
+
 ## Project Overview
 This SwiftUI iOS application demonstrates navigation between views and loading data from JSON files. The app features a main menu with categories and detailed food item views.
 
