@@ -21,16 +21,16 @@ struct ContentView: View {
                 // Original categories section
                 Section(header: Text("Categories")) {
                     HStack {
-                        Image(systemName: "car.fill")
-                        Text("Cars")
+                        Image(systemName: "book")
+                        Text("Books")
                     }
                     HStack {
-                        Image(systemName: "house.fill")
-                        Text("Home")
+                        Image(systemName: "gamecontroller.fill")
+                        Text("Games")
                     }
                     HStack {
-                        Image(systemName: "figure.run")
-                        Text("Fitness")
+                        Image(systemName: "movieclapper")
+                        Text("Movies")
                     }
                     
                     // Food category with navigation to food menu
