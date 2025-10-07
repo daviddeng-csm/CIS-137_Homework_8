@@ -1,3 +1,7 @@
+//  CIS137 Assignment #8
+//  Explain which modification you made to the original app
+//  David Deng
+//  October 7, 2025
 //
 //  ContentView.swift
 //  Homework8
